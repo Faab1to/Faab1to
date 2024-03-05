@@ -30,4 +30,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Faab1tol/Faab1to/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" />
